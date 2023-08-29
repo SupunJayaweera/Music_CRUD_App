@@ -107,3 +107,4 @@ module.exports = {
   updateSong: updateSong,
   deleteSong: deleteSong,
 };
+// exporting all the functions
